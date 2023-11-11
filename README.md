@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Viktor Shcheglov</h1>
+<h3 align="center">Senior frontend developer</h3>
+
+
+- 👨‍💻 I’m Software engineer with a strong passion for well-written code and high-quality UIs. Since entering the web development field in 2012, I have served as a Frontend Technical lead and architect. Product thinking is an integral part of my approach. I strive to find win-win scenarios, where empathy often serves as a useful tool.
+
+- 🔭 I’m currently working on [Yango Deli](https://deli.yango.com/en-ci)
+
+
+Contacts:
+-  scheglov.v@gmail.com 
+
 
 <!--
 **weglov/weglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
