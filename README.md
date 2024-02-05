@@ -4,7 +4,8 @@
 
 - 👨‍💻 I’m Software engineer with a strong passion for well-written code and high-quality UIs. Since entering the web development field in 2012, I have served as a Frontend Technical lead and architect. Product thinking is an integral part of my approach. I strive to find win-win scenarios, where empathy often serves as a useful tool.
 
-- 🔭 I’m currently working on [Yango Deli](https://deli.yango.com/en-ci)
+- 🔭 I’m currently working on [Recraft.ai](https://recraft.ai/)
+- ex: Yango Deli, Revolut 
 
 
 Contacts:
