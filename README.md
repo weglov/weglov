@@ -8,8 +8,8 @@
 
 🤙 Contacts:
 -  scheglov.v@gmail.com
--  [my blog: @useVityaEffect](t.me/useVityaEffect)
--  [telegram](t.me/scheglov)
+-  [my blog](https://t.me/useVityaEffect)
+-  [telegram](https://t.me/scheglov)
 -  [youtube](https://www.youtube.com/@viktor_shcheglov)
 
 -----
